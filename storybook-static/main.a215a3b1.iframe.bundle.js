@@ -32043,9 +32043,9 @@
               children: [
                 Object(jsx_runtime.jsx)(LinkExternal.a, {
                   small: !0,
-                  href: "https://mainnet.opbnbscan.com/address/" + account,
+                  href: "https://mainnet.DegenScan.com/address/" + account,
                   mr: "16px",
-                  children: "View on opbnbscan",
+                  children: "View on DegenScan",
                 }),
                 Object(jsx_runtime.jsx)(WalletModal_CopyToClipboard, {
                   toCopy: account,

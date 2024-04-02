@@ -8984,10 +8984,10 @@ var AccountModal = function (_a) {
         LinkExternal,
         {
           small: true,
-          href: "https://mainnet.opbnbscan.com/address/" + account,
+          href: "https://mainnet.DegenScan.com/address/" + account,
           mr: "16px",
         },
-        "View on opbnbscan"
+        "View on DegenScan"
       ),
       React__default["default"].createElement(
         CopyToClipboard,
