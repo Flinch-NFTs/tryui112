@@ -27385,7 +27385,7 @@
           var cakePriceUsd = _ref.cakePriceUsd;
           return cakePriceUsd
             ? Object(jsx_runtime.jsxs)(PriceLink, {
-                href: "https://dexscreener.com/opbnb/0x506b8322e1159d06e493ebe7ffa41a24291e7ae3",
+                href: "https://dexscreener.com/degenchain/0x52063dbdcba3fd180b6545bb70fa9236478292ba",
                 target: "_blank",
                 children: [
                   Object(jsx_runtime.jsx)(components_Svg.n, {
