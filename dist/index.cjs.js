@@ -8984,7 +8984,7 @@ var AccountModal = function (_a) {
         LinkExternal,
         {
           small: true,
-          href: "https://mainnet.DegenScan.com/address/" + account,
+          href: "https://explorer.degen.tips/address/" + account,
           mr: "16px",
         },
         "View on DegenScan"
@@ -9487,7 +9487,7 @@ var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), {
   borderColor: "#E9EAEB",
   gradients: {
     bubblegum:
-      "rgba(18, 18, 18, 0.7)",
+      "#1e293b",
     cardHeader: "linear-gradient(111.68deg, #F2ECF2 0%, #E8F2F6 100%)",
     blue: "linear-gradient(180deg, #A7E8F1 0%, #94E1F2 100%)",
     violet: "linear-gradient(180deg, #E2C9FB 0%, #CDB8FA 100%)",
@@ -9512,7 +9512,7 @@ var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), {
   borderColor: "#524B63",
   gradients: {
     bubblegum:
-      "rgba(18, 18, 18, 0.7)",
+      "#1e293b",
     cardHeader: "linear-gradient(166.77deg, #3B4155 0%, #3A3045 100%)",
     blue: "linear-gradient(180deg, #00707F 0%, #19778C 100%)",
     violet: "linear-gradient(180deg, #6C4999 0%, #6D4DB2 100%)",
