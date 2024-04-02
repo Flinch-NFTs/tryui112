@@ -23,9 +23,11 @@ const AccountModal: React.FC<Props> = ({ account, logout, onDismiss = () => null
       {account}
     </Text>
     <Flex mb="32px">
-      <LinkExternal small href={`https://mainnet.opbnbscan.com/address/${account}`} mr="16px">
-        View on opbnbscan
+      <LinkExternal small href={`https://explorer.degen.tips/address/${account}`} mr="16px">
+        View on DegenScan
       </LinkExternal>
+
+      
       <CopyToClipboard toCopy={account}>Copy Address</CopyToClipboard>
     </Flex>
     <Flex justifyContent="center">

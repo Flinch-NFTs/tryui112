@@ -6252,7 +6252,7 @@ var shadows = {
   active: "0px 0px 0px 1px #0098A1, 0px 0px 4px 8px rgba(31, 199, 212, 0.4)",
   success: "0px 0px 0px 1px #31D0AA, 0px 0px 0px 4px rgba(49, 208, 170, 0.2)",
   warning: "0px 0px 0px 1px #ED4B9E, 0px 0px 0px 4px rgba(237, 75, 158, 0.2)",
-  focus: "0px 0px 0px 1px #1e293b, 0px 0px 0px 4px rgba(6, 117, 177, 0.6)",
+  focus: "0px 0px 0px 1px #8b5cf6, 0px 0px 0px 4px rgba(6, 117, 177, 0.6)",
   inset: "inset 0px 2px 2px -1px rgba(74, 74, 104, 0.1)",
 };
 var spacing = [0, 4, 8, 16, 24, 32, 48, 64];
@@ -7718,14 +7718,14 @@ var socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/binaryswapio",
+        href: "https://t.me/swapdegen",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/binaryswapio",
+    href: "https://twitter.com/swapdegen",
   },
 ];
 var MENU_HEIGHT = 64;
@@ -9461,10 +9461,10 @@ var templateObject_1;
 
 var baseColors = {
   failure: "#ED4B9E",
-  primary: "#1e293b",
+  primary: "#8b5cf6",
   primaryBright: "#31b3f7",
   primaryDark: "#024179",
-  secondary: "#1e293b",
+  secondary: "#8b5cf6",
   success: "#31D0AA",
   warning: "#FFB237",
 };
@@ -9476,14 +9476,14 @@ var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), {
   backgroundDisabled: "#E9EAEB",
   backgroundAlt: "#FFFFFF",
   contrast: "#191326",
-  dropdown: "#121212",
+  dropdown: "#1e293b",
   invertedContrast: "#FFFFFF",
   input: "#eeeaf4",
   inputSecondary: "#d7caec",
   tertiary: "#EFF4F5",
-  text: "#1e293b",
+  text: "#8b5cf6",
   textDisabled: "#BDC2C4",
-  textSubtle: "#1e293b",
+  textSubtle: "#8b5cf6",
   borderColor: "#E9EAEB",
   gradients: {
     bubblegum:
@@ -9495,20 +9495,20 @@ var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), {
   },
 });
 var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), {
-  secondary: "#1e293b",
+  secondary: "#8b5cf6",
   background: "#353547",
   backgroundDisabled: "#3c3742",
-  backgroundAlt: "#121212",
+  backgroundAlt: "#1e293b",
   contrast: "#FFFFFF",
   dropdown: "#1E1D20",
   invertedContrast: "#191326",
-  input: "#121212",
-  inputSecondary: "#1e293b",
+  input: "#1e293b",
+  inputSecondary: "#8b5cf6",
   primaryDark: "#0098A1",
   tertiary: "#353547",
   text: "#e2effc",
   textDisabled: "#666171",
-  textSubtle: "#1e293b",
+  textSubtle: "#8b5cf6",
   borderColor: "#524B63",
   gradients: {
     bubblegum:
@@ -9516,7 +9516,7 @@ var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), {
     cardHeader: "linear-gradient(166.77deg, #3B4155 0%, #3A3045 100%)",
     blue: "linear-gradient(180deg, #00707F 0%, #19778C 100%)",
     violet: "linear-gradient(180deg, #6C4999 0%, #6D4DB2 100%)",
-    violetAlt: "linear-gradient(180deg, #434575 0%, #1e293b 100%)",
+    violetAlt: "linear-gradient(180deg, #434575 0%, #8b5cf6 100%)",
   },
 });
 

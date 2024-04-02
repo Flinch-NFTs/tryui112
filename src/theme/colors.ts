@@ -2,8 +2,8 @@ import { Colors } from "./types";
 
 export const baseColors = {
   failure: "#ED4B9E",
-  primary: "#1e293b",
-  primaryBright: "#1e293b",
+  primary: "#8b5cf6",
+  primaryBright: "#8b5cf6",
   primaryDark: "#351617",
   secondary: "#97161e",
   success: "#31D0AA",
@@ -21,14 +21,14 @@ export const lightColors: Colors = {
   backgroundDisabled: "#E9EAEB",
   backgroundAlt: "#FFFFFF",
   contrast: "#191326",
-  dropdown: "#121212",
+  dropdown: "#1e293b",
   invertedContrast: "#FFFFFF",
   input: "#eeeaf4",
   inputSecondary: "#d7caec",
   tertiary: "#EFF4F5",
-  text: "#1e293b",
+  text: "#8b5cf6",
   textDisabled: "#BDC2C4",
-  textSubtle: "#1e293b",
+  textSubtle: "#8b5cf6",
   borderColor: "#E9EAEB",
   gradients: {
     bubblegum:
@@ -51,15 +51,15 @@ export const darkColors: Colors = {
   contrast: "#FFFFFF",
   dropdown: "#1E1D20",
   invertedContrast: "#191326",
-  input: "#1e293b",
-  inputSecondary: "#1e293b",
+  input: "#8b5cf6",
+  inputSecondary: "#8b5cf6",
   primaryDark: "#97161e",
   tertiary: "#353547",
   text: "#e2effc",
   textDisabled: "#666171",
 
   
-  textSubtle: "#1e293b",
+  textSubtle: "#8b5cf6",
   borderColor: "#524B63",
   gradients: {
     bubblegum:
@@ -67,6 +67,6 @@ export const darkColors: Colors = {
     cardHeader: "linear-gradient(166.77deg, #070707 0%, #3A3045 100%)",
     blue: "linear-gradient(180deg, #070707 0%, #19778C 100%)",
     violet: "linear-gradient(180deg, #070707 0%, #6D4DB2 100%)",
-    violetAlt: "linear-gradient(180deg, #070707 0%, #1e293b 100%)",
+    violetAlt: "linear-gradient(180deg, #070707 0%, #8b5cf6 100%)",
   },
 };
